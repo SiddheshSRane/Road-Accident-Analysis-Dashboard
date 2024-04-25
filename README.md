@@ -1,7 +1,7 @@
 # Road-Accident-Analysis-Dashboard
-The project covered all aspects from understanding business requirements to getting insights. Here is a breakdown of the project:
+The project covered all aspects for getting insights. Here is a breakdown of the project:
 
-Business requirement understanding.
+requirement understanding.
 Raw Data overview and connecting data with Power BI.
 Data cleaning, Data Processing and Data Modelling using Power query editor and DAX.
 Background design in power point.
